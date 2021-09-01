@@ -1,2 +1,2 @@
 # nodeESP
-Related files to the ESP32 based nodeESP board 
+Related files of the ESP32 based nodeESP board 
